@@ -1,4 +1,6 @@
-- Hi, I’m @ChrisTech44
-- I’m interested in Computer Science.
-- I’m currently learning Java and C++.
-- I’m looking to collaborate on interesting projects.
+- I am Christian Franklin
+- I am
+  - a current CS student
+  - proficient in Swift and Java
+  - learning C++
+  - always looking to work on projects

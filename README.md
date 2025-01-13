@@ -6,11 +6,11 @@ Ccurrently studying Computer Science at VT
 
 MTA Java certified programmer
 
-Proficient in the Java and Swift
+Proficient in the C, Java, and Swift
 
-Moderate Python knowledge
+Proficient in RISC-V and x86_64 ISAs
 
-Currently learning C++
+Currently learning software reverse engineering
 
 Goals 🎯
 --------------------------------------------------
